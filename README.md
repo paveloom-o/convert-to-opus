@@ -2,6 +2,8 @@
 
 The script ([`convert.bash`](./convert.bash)) converts directories with releases (e.g., a music album as a single directory with audio files as tracks inside) from lossless formats ([FLAC](https://en.wikipedia.org/wiki/FLAC), [WAV](https://en.wikipedia.org/wiki/WAV)) to the [Opus](https://en.wikipedia.org/wiki/Opus_(audio_format)) format. The goal is to minimize the size of the audio files while preserving the quality of the music as much as possible.
 
+The only dependency is [FFmpeg](https://ffmpeg.org). Your build should support codecs for the mentioned formats.
+
 Here's an example of downloading a release via [`streamrip`](https://github.com/nathom/streamrip) and running the script on it:
 
 ```console
