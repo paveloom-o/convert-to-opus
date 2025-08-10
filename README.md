@@ -70,6 +70,8 @@ $ tree
 │   ├── 10. Lord Of The Lost - The Sadness In Everything.opus
 │   └── 11. Lord Of The Lost - Dreams Are Never Alone.opus
 └── README.md
+
+3 directories, 27 files
 $ du -h **/
 541M    Lord Of The Lost - OPVS NOIR Vol. 1 (2025) [FLAC] [24B-44.1kHz]/
 30M     Lord Of The Lost - OPVS NOIR Vol. 1 (2025) [FLAC] [24B-44.1kHz] (Opus)/
