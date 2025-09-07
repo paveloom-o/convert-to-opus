@@ -81,6 +81,6 @@ Running the [`clean.bash`](./clean.bash) script will then remove the two directo
 
 Git mirrors:
 
-- [Codeberg](https://codeberg.org/paveloom/convert-to-opus)
-- [GitHub](https://github.com/paveloom/convert-to-opus)
-- [GitLab](https://gitlab.com/paveloom-g/personal/convert-to-opus)
+- [Codeberg](https://codeberg.org/paveloom-o/convert-to-opus)
+- [GitHub](https://github.com/paveloom-o/convert-to-opus)
+- [GitLab](https://gitlab.com/paveloom-g/other/convert-to-opus)
